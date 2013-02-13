@@ -1,19 +1,13 @@
-* Deamon
-	Bewertung: +
-	Anmerkung: second read
-* Poeler Pokale (Krimi) von  André Bawar
-	Bewertung: --
-* Die Tote am Deich (Krimi) von Heike Denzau
-	Bewertung: +
-* Nebelfront (Krimi) von Hannes Nygaard
-	Bewertung: ++
-* Schwelbrand (Krimi) von Hannes Nygaard
-	Bewertung: ++
-* Hätschelkind (Krimi) von Wimmer Wilkenloh
-	Bewertung: +
-* Die falsche Fährte (Krimi) von Henning Mankell 
-	Bewertung: +
+Titel;Autor;Genre;Bewertung;Anmerkung;
+Deamon;Daniel Suarez;Thriller;+;zweites Mal gelesen;
+Poeler Pokale;Krimi;André Bawar;--;;
+Die Tote am Deich;Heike Denzau;Krimi;+;;
+Nebelfront;Hannes Nygaard;Krimi;++;;
+Schwelbrand;Hannes Nygaard;Krimi;++;;
+Hätschelkind;Wimmer Wilkenloh;Krimi;+;interessanter Hauptermittler;
+Die falsche Fährte;Henning Mankel;Krimi;+;gerne auch weitere Mankels in Zukunft;
 
-Gerade am lesen: 
-* Writing, that works (Sachbuch) von  Kenneth Roman
-* The Rembrandt Affair (Thriller) von Daniel Silva
+Gerade am lesen:
+Titel;Autor;Genre;
+Writing, that works;Kenneth Roman;Sachbuch;
+The Rembrandt Affair;Daniel Silva;Thriller;
