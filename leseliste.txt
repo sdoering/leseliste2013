@@ -8,6 +8,6 @@ Hätschelkind;Wimmer Wilkenloh;Krimi;+;interessanter Hauptermittler;
 Die falsche Fährte;Henning Mankel;Krimi;+;gerne auch weitere Mankels in Zukunft;
 
 Gerade am lesen:
-Titel;Autor;Genre;
-Writing, that works;Kenneth Roman;Sachbuch;
-The Rembrandt Affair;Daniel Silva;Thriller;
+Titel;Autor;Genre;Bewertung;Anmerkung;
+Writing, that works;Kenneth Roman;Sachbuch;;;
+The Rembrandt Affair;Daniel Silva;Thriller;;;
