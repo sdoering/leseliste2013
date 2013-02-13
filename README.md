@@ -1,4 +1,4 @@
-sdoering's book-list for 2013
-=============================
+sdoering's book-list since 2013-01-01:
+======================================
 
-Books I read in 2013
+Books I read since the start of 2013
