@@ -6,8 +6,9 @@ Nebelfront;Hannes Nygaard;Krimi;++;;
 Schwelbrand;Hannes Nygaard;Krimi;++;;
 Hätschelkind;Wimmer Wilkenloh;Krimi;+;interessanter Hauptermittler;
 Die falsche Fährte;Henning Mankel;Krimi;+;gerne auch weitere Mankels in Zukunft;
+The Rembrandt Affair;Daniel Silva;Thriller;+;interessante, semi-fiktionale EInblicke in den niederländischen Part des Holocaust;
 
 Gerade am lesen:
 Titel;Autor;Genre;Bewertung;Anmerkung;
-Writing, that works;Kenneth Roman;Sachbuch;;;
-The Rembrandt Affair;Daniel Silva;Thriller;;;
+Writing, that wrkks;Kenneth Roman;Sachbuch;;;
+Die weiße Löwin;Henning Mankell;Krimi;;;
