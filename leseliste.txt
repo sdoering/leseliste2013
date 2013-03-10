@@ -12,3 +12,4 @@ Gerade am lesen:
 Titel;Autor;Genre;Bewertung;Anmerkung;
 Writing, that wrkks;Kenneth Roman;Sachbuch;;;
 Die weiße Löwin;Henning Mankell;Krimi;;;
+Frostnacht,Arnaldur Indridason;Krimi;;; 
