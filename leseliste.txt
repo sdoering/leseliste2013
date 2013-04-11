@@ -1,6 +1,5 @@
 Titel;Autor;Genre;Bewertung;Anmerkung;
 Deamon;Daniel Suarez;Thriller;+;zweites Mal gelesen;
-Freedom;Daniel Suarez;Thriller;++;zweites Mal gelesen;
 Poeler Pokale;Krimi;André Bawar;--;;
 Die Tote am Deich;Heike Denzau;Krimi;+;;
 Nebelfront;Hannes Nygaard;Krimi;++;;
@@ -9,6 +8,7 @@ Hätschelkind;Wimmer Wilkenloh;Krimi;+;interessanter Hauptermittler;
 Die falsche Fährte;Henning Mankel;Krimi;+;gerne auch weitere Mankels in Zukunft;
 The Rembrandt Affair;Daniel Silva;Thriller;+;interessante, semi-fiktionale EInblicke in den niederländischen Part des Holocaust;
 Die weiße Löwin;Henning Mankell;Krimi;+;interessante Einblicke in ein Afrika am Ende der Apartheit, als Krimi eher mäßig;
+Freedom;Daniel Suarez;Thriller;++;zweites Mal gelesen;
 
 
 Gerade am lesen:
