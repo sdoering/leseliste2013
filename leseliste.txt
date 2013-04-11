@@ -1,5 +1,6 @@
 Titel;Autor;Genre;Bewertung;Anmerkung;
 Deamon;Daniel Suarez;Thriller;+;zweites Mal gelesen;
+Freedom;Daniel Suarez;Thriller;++;zweites Mal gelesen;
 Poeler Pokale;Krimi;André Bawar;--;;
 Die Tote am Deich;Heike Denzau;Krimi;+;;
 Nebelfront;Hannes Nygaard;Krimi;++;;
