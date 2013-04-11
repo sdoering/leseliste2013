@@ -12,6 +12,8 @@ Die weiße Löwin;Henning Mankell;Krimi;+;interessante Einblicke in ein Afrika a
 
 Gerade am lesen:
 Titel;Autor;Genre;Bewertung;Anmerkung;
-Writing, that wrkks;Kenneth Roman;Sachbuch;;;
+Waste: Uncovering the Global Food Scandal;Stuart Tritram;Sachbuch;;;
+Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
+Writing, that works;Kenneth Roman;Sachbuch;;;
 Ins Glück stolpern: Über die Unvorhersehbarkeit dessen, was wir uns am meisten wünschen;Daniel Gilbert;Pop-Wissenschaft;;;
 Frostnacht,Arnaldur Indridason;Krimi;;; 
