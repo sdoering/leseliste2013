@@ -10,7 +10,7 @@ The Rembrandt Affair;Daniel Silva;Thriller;+;interessante, semi-fiktionale EInbl
 Die weiße Löwin;Henning Mankell;Krimi;+;interessante Einblicke in ein Afrika am Ende der Apartheit, als Krimi eher mäßig;
 Freedom;Daniel Suarez;Thriller;++;zweites Mal gelesen;
 Ins Glück stolpern: Über die Unvorhersehbarkeit dessen, was wir uns am meisten wünschen;Daniel Gilbert;Pop-Wissenschaft;++;Sehr interessant erklärt, wieso unsere Vorhersagen/Vorstellungen nicht immer richtig sind;
-
+Geheimcode Makaze;Clive Cussler & Dirk Cussler;Thriller;0+;war ok, nichts besonderes und der Cameo des Autors unnötig;
 
 Gerade am lesen:
 Titel;Autor;Genre;Bewertung;Anmerkung;
@@ -18,4 +18,4 @@ Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Waste: Uncovering the Global Food Scandal;Stuart Tritram;Sachbuch;;;
 Writing, that works;Kenneth Roman;Sachbuch;;;
 Frostnacht,Arnaldur Indridason;Krimi;;; 
-Geheimcode Makaze;Clive Cussler & Dirk Cussler;Thriller;;;
+Die schwarze Sonne;James Twining;Thriller;;;
