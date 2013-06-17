@@ -13,10 +13,13 @@ Ins Glück stolpern: Über die Unvorhersehbarkeit dessen, was wir uns am meisten
 Geheimcode Makaze;Clive Cussler & Dirk Cussler;Thriller;0+;war ok, nichts besonderes und der Cameo des Autors unnötig;
 Die schwarze Sonne;James Twining;Thriller;+;War ganz angenehme Lektüre. Nicht zu tiefgründig, und OK. Und gab mir was zum Recherchieren;
 
+Nicht beendet:
+Titel;Autor;Genre;Anmerkung;
+Frostnacht,Arnaldur Indridason;Krimi;Einstieg leider nicht fesselnd genug, obwohl ich nordische Krimis mag; 
+
 Gerade am lesen:
 Titel;Autor;Genre;Bewertung;Anmerkung;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Waste: Uncovering the Global Food Scandal;Stuart Tritram;Sachbuch;;;
 Writing, that works;Kenneth Roman;Sachbuch;;;
-Frostnacht,Arnaldur Indridason;Krimi;;; 
 Rendezvous mit dem Tod;Alistair MacLean;Thriller/Abenteuer-Roman;;;
