@@ -23,3 +23,4 @@ Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Waste: Uncovering the Global Food Scandal;Stuart Tritram;Sachbuch;;;
 Writing, that works;Kenneth Roman;Sachbuch;;;
 Rendezvous mit dem Tod;Alistair MacLean;Thriller/Abenteuer-Roman;;;
+Fooled by Randomness;N.N.Taleb;Essay;;;
