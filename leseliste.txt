@@ -12,6 +12,8 @@ Freedom;Daniel Suarez;Thriller;++;zweites Mal gelesen;
 Ins Glück stolpern: Über die Unvorhersehbarkeit dessen, was wir uns am meisten wünschen;Daniel Gilbert;Pop-Wissenschaft;++;Sehr interessant erklärt, wieso unsere Vorhersagen/Vorstellungen nicht immer richtig sind;
 Geheimcode Makaze;Clive Cussler & Dirk Cussler;Thriller;0+;war ok, nichts besonderes und der Cameo des Autors unnötig;
 Die schwarze Sonne;James Twining;Thriller;+;War ganz angenehme Lektüre. Nicht zu tiefgründig, und OK. Und gab mir was zum Recherchieren;
+Rendezvous mit dem Tod;Alistair MacLean;Thriller/Abenteuer-Roman;+;OK, nach vielen Jahren mal wieder einen MacLean gelesen. Zieht sich anfangs ein wenig, wird zum Ende hin spannend und dann leider vorhersehbar;
+Fooled by Randomness;N.N.Taleb;Essay;++;Zum zweiten Mal gelesen, wieder ein paar Dinge neu entdeckt. Sehr empfehlenswert;
 
 Nicht beendet:
 Titel;Autor;Genre;Anmerkung;
@@ -22,5 +24,10 @@ Titel;Autor;Genre;Bewertung;Anmerkung;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Waste: Uncovering the Global Food Scandal;Stuart Tritram;Sachbuch;;;
 Writing, that works;Kenneth Roman;Sachbuch;;;
-Rendezvous mit dem Tod;Alistair MacLean;Thriller/Abenteuer-Roman;;;
-Fooled by Randomness;N.N.Taleb;Essay;;;
+
+Ausstehend:
+Titel;Autor;Genre;Bewertung;Anmerkung;
+Die Bruderschaft der Unsichtbaren;Kurt Aust;Thriller;;;
+Tod am Zollhaus;Petra Oelker;Hist. Krimi;;;
+Der Sommer des Kometen;Petra Oelker;Hist. Krimi;;;
+Lorettas letzter Vorhang;Petra Oelker;Hist. Krimi;;;
