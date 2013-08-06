@@ -14,20 +14,22 @@ Geheimcode Makaze;Clive Cussler & Dirk Cussler;Thriller;0+;war ok, nichts besond
 Die schwarze Sonne;James Twining;Thriller;+;War ganz angenehme Lektüre. Nicht zu tiefgründig, und OK. Und gab mir was zum Recherchieren;
 Rendezvous mit dem Tod;Alistair MacLean;Thriller/Abenteuer-Roman;+;OK, nach vielen Jahren mal wieder einen MacLean gelesen. Zieht sich anfangs ein wenig, wird zum Ende hin spannend und dann leider vorhersehbar;
 Fooled by Randomness;N.N.Taleb;Essay;++;Zum zweiten Mal gelesen, wieder ein paar Dinge neu entdeckt. Sehr empfehlenswert;
+Die Bruderschaft der Unsichtbaren;Kurt Aust;Thriller;0-;langer Einstieg, appruptes Ende, Erkenntnisse und finales Verhalten der Hauptfigur nur bedingt nachvollziehbar;
+Waste: Uncovering the Global Food Scandal;Stuart Tritram;Sachbuch;++;sehr empfehlenswert. Öffnet die Augen für eines der großen Probleme der Welternährung;
 
 Nicht beendet:
 Titel;Autor;Genre;Anmerkung;
 Frostnacht,Arnaldur Indridason;Krimi;Einstieg leider nicht fesselnd genug, obwohl ich nordische Krimis mag; 
 
 Gerade am lesen:
-Titel;Autor;Genre;Bewertung;Anmerkung;
+Titel;Autor;Genre;;;
+Der Inselkönig;Hannes Nygaard;Krimi;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
-Waste: Uncovering the Global Food Scandal;Stuart Tritram;Sachbuch;;;
 Writing, that works;Kenneth Roman;Sachbuch;;;
 
 Ausstehend:
-Titel;Autor;Genre;Bewertung;Anmerkung;
-Die Bruderschaft der Unsichtbaren;Kurt Aust;Thriller;;;
+Titel;Autor;Genre;;;
 Tod am Zollhaus;Petra Oelker;Hist. Krimi;;;
 Der Sommer des Kometen;Petra Oelker;Hist. Krimi;;;
 Lorettas letzter Vorhang;Petra Oelker;Hist. Krimi;;;
+
