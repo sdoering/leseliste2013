@@ -16,6 +16,8 @@ Rendezvous mit dem Tod;Alistair MacLean;Thriller/Abenteuer-Roman;+;OK, nach viel
 Fooled by Randomness;N.N.Taleb;Essay;++;Zum zweiten Mal gelesen, wieder ein paar Dinge neu entdeckt. Sehr empfehlenswert;
 Die Bruderschaft der Unsichtbaren;Kurt Aust;Thriller;0-;langer Einstieg, appruptes Ende, Erkenntnisse und finales Verhalten der Hauptfigur nur bedingt nachvollziehbar;
 Waste: Uncovering the Global Food Scandal;Stuart Tritram;Sachbuch;++;sehr empfehlenswert. Öffnet die Augen für eines der großen Probleme der Welternährung;
+Der Inselkönig;Hannes Nygaard;Krimi;++;wieder ein Krimi, der im Norden spielt, wieder ein wirklich guter Nygaard. Nur leider so kurz. ;-);
+Anne Holt;1222;Thriller;0+;Einzig die Nebenhandlung stört ein wenig, sonst sehr spannender Thriller;
 
 Nicht beendet:
 Titel;Autor;Genre;Anmerkung;
@@ -23,7 +25,6 @@ Frostnacht,Arnaldur Indridason;Krimi;Einstieg leider nicht fesselnd genug, obwoh
 
 Gerade am lesen:
 Titel;Autor;Genre;;;
-Der Inselkönig;Hannes Nygaard;Krimi;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Writing, that works;Kenneth Roman;Sachbuch;;;
 
