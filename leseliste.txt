@@ -27,6 +27,9 @@ Gerade am lesen:
 Titel;Autor;Genre;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Writing, that works;Kenneth Roman;Sachbuch;;;
+Das Spiel;Stephen King;Horror;;;
+Magic Bites;Ilona Andrews;Urban Fantasy;;;
+Waste: Uncovering the Global Food Scandal: The True Cost of What the Global Food Industry Throws Away;Tristram Stuart;Sachbuch;;;
 
 Ausstehend:
 Titel;Autor;Genre;;;
