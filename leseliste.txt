@@ -18,6 +18,10 @@ Die Bruderschaft der Unsichtbaren;Kurt Aust;Thriller;0-;langer Einstieg, apprupt
 Waste: Uncovering the Global Food Scandal;Stuart Tritram;Sachbuch;++;sehr empfehlenswert. Öffnet die Augen für eines der großen Probleme der Welternährung;
 Der Inselkönig;Hannes Nygaard;Krimi;++;wieder ein Krimi, der im Norden spielt, wieder ein wirklich guter Nygaard. Nur leider so kurz. ;-);
 Anne Holt;1222;Thriller;0+;Einzig die Nebenhandlung stört ein wenig, sonst sehr spannender Thriller;
+Magic Bites;Ilona Andrews;Urban Fantasy;+;Nette, moderne Fantasy mit witzigen Charakteren;
+Das Spiel;Stephen King;Psycho;+;Reizvoller Psychothriller mit interessantem Setting;
+Programming Collective Intelligence;Toby Segaran;Sachbuch IT;+;Gute Einführung in Konzepte der Datenanalyse;
+Writing, that works;Kenneth Roman;Sachbuch;++;Sollte jeder, lesen, egal ob Twitter-Nutzer oder Schriftsteller;
 
 Nicht beendet:
 Titel;Autor;Genre;Anmerkung;
@@ -26,14 +30,10 @@ Frostnacht,Arnaldur Indridason;Krimi;Einstieg leider nicht fesselnd genug, obwoh
 Gerade am lesen:
 Titel;Autor;Genre;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
-Writing, that works;Kenneth Roman;Sachbuch;;;
-Das Spiel;Stephen King;Horror;;;
-Magic Bites;Ilona Andrews;Urban Fantasy;;;
+Magic Burns;Ilona Andrews;Urban Fantasy;;;
+Schwere Wetter;Hannes Nygaard;Krimi;;;
 Waste: Uncovering the Global Food Scandal: The True Cost of What the Global Food Industry Throws Away;Tristram Stuart;Sachbuch;;;
 
 Ausstehend:
 Titel;Autor;Genre;;;
-Tod am Zollhaus;Petra Oelker;Hist. Krimi;;;
-Der Sommer des Kometen;Petra Oelker;Hist. Krimi;;;
-Lorettas letzter Vorhang;Petra Oelker;Hist. Krimi;;;
 
