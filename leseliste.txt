@@ -23,7 +23,8 @@ Das Spiel;Stephen King;Psycho;+;Reizvoller Psychothriller mit interessantem Sett
 Programming Collective Intelligence;Toby Segaran;Sachbuch IT;+;Gute Einführung in Konzepte der Datenanalyse;
 Writing, that works;Kenneth Roman;Sachbuch;++;Sollte jeder, lesen, egal ob Twitter-Nutzer oder Schriftsteller;
 Schwere Wetter;Hannes Nygaard;Krimi;0+;OK leider bisher für mich der der schwächste Nygaard. Irgendwie kam wenig Stimmung und Spannung auf. Die Geschichte wirkt zu konstruiert in meinen Augen;
-
+Magic Burns;Ilona Andrews;Urban Fantasy;0+;zweites Mal gelesen, Fantasy ist eigentlich nicht mehr meins, aber die ist unterhaltsam und lustig;
+Programming Collective Intelligence;Toby Segaran;Sachbuch;+;Gute Einführung in das Thema;
 
 Nicht beendet:
 Titel;Autor;Genre;Anmerkung;
@@ -31,8 +32,9 @@ Frostnacht,Arnaldur Indridason;Krimi;Einstieg leider nicht fesselnd genug, obwoh
 
 Gerade am lesen:
 Titel;Autor;Genre;;;
+Tod im Koog;Hannes Nygaard;Krimi;;;
+Arbeitsfrei - Eine Entdeckungsreise zu den Maschinen, die uns ersetzen;Constanze Kurz & Frank Rieger;Sachbuch;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
-Magic Burns;Ilona Andrews;Urban Fantasy;;;
 Waste: Uncovering the Global Food Scandal: The True Cost of What the Global Food Industry Throws Away;Tristram Stuart;Sachbuch;;;
 
 Ausstehend:
