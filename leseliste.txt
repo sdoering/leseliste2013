@@ -25,6 +25,7 @@ Writing, that works;Kenneth Roman;Sachbuch;++;Sollte jeder, lesen, egal ob Twitt
 Schwere Wetter;Hannes Nygaard;Krimi;0+;OK leider bisher für mich der der schwächste Nygaard. Irgendwie kam wenig Stimmung und Spannung auf. Die Geschichte wirkt zu konstruiert in meinen Augen;
 Magic Burns;Ilona Andrews;Urban Fantasy;0+;zweites Mal gelesen, Fantasy ist eigentlich nicht mehr meins, aber die ist unterhaltsam und lustig;
 Programming Collective Intelligence;Toby Segaran;Sachbuch;+;Gute Einführung in das Thema;
+Arbeitsfrei - Eine Entdeckungsreise zu den Maschinen, die uns ersetzen;Constanze Kurz & Frank Rieger;Sachbuch;0+;gute Überblick, öffnet teilweise die Augen. Im Epilog hätte ich mir noch mehr Gedanken und Ausblicke/Ideen zur gesellschaftlichen Dimension gewünscht;
 
 Nicht beendet:
 Titel;Autor;Genre;Anmerkung;
@@ -32,11 +33,11 @@ Frostnacht,Arnaldur Indridason;Krimi;Einstieg leider nicht fesselnd genug, obwoh
 
 Gerade am lesen:
 Titel;Autor;Genre;;;
+Operation Blackmail;Jenk Saborowski;;;
 Tod im Koog;Hannes Nygaard;Krimi;;;
-Arbeitsfrei - Eine Entdeckungsreise zu den Maschinen, die uns ersetzen;Constanze Kurz & Frank Rieger;Sachbuch;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Waste: Uncovering the Global Food Scandal: The True Cost of What the Global Food Industry Throws Away;Tristram Stuart;Sachbuch;;;
 
 Ausstehend:
 Titel;Autor;Genre;;;
-Operation Blackmail;Jenk Saborowski;;;
+
