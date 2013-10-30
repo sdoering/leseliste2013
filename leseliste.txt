@@ -26,6 +26,7 @@ Schwere Wetter;Hannes Nygaard;Krimi;0+;OK leider bisher für mich der der schwä
 Magic Burns;Ilona Andrews;Urban Fantasy;0+;zweites Mal gelesen, Fantasy ist eigentlich nicht mehr meins, aber die ist unterhaltsam und lustig;
 Programming Collective Intelligence;Toby Segaran;Sachbuch;+;Gute Einführung in das Thema;
 Arbeitsfrei - Eine Entdeckungsreise zu den Maschinen, die uns ersetzen;Constanze Kurz & Frank Rieger;Sachbuch;0+;gute Überblick, öffnet teilweise die Augen. Im Epilog hätte ich mir noch mehr Gedanken und Ausblicke/Ideen zur gesellschaftlichen Dimension gewünscht;
+Operation Blackmail;Jenk Saborowski;0-;Man glaubt es kaum, aber das Buch fängt echt gut an, hatte für mich 2 nette kleine unbewusste Insider-Witze (Olfaktorischer Sinn und Lukumades) und versaut es doch tatsächlich auf den letzten 15%. Bildberberger-Konferenz? Wirklich? Und dann derartige Logik-Fehler? Den Maulwurf und auch den "Mastermind" hätte jede "normale" Ermittlung schnell im Verdacht gehabt, hätte man mal klassisch nach unzufriedenen Ex-Mitarbeitern und deren Verbindungen zur Bank gefahndet. Oh wie schlecht. Und dass das Mastermind seinen Klarnamen beim Killer verwendet hat, nachdem er sich sonst so gut abgesichert hatte ist ja auch soooooooooo wahrscheinlich. Was ein Bullshit.;
 
 Nicht beendet:
 Titel;Autor;Genre;Anmerkung;
@@ -33,7 +34,6 @@ Frostnacht,Arnaldur Indridason;Krimi;Einstieg leider nicht fesselnd genug, obwoh
 
 Gerade am lesen:
 Titel;Autor;Genre;;;
-Operation Blackmail;Jenk Saborowski;;;
 Tod im Koog;Hannes Nygaard;Krimi;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Waste: Uncovering the Global Food Scandal: The True Cost of What the Global Food Industry Throws Away;Tristram Stuart;Sachbuch;;;
