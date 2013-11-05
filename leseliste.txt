@@ -27,17 +27,18 @@ Magic Burns;Ilona Andrews;Urban Fantasy;0+;zweites Mal gelesen, Fantasy ist eige
 Programming Collective Intelligence;Toby Segaran;Sachbuch;+;Gute Einführung in das Thema;
 Arbeitsfrei - Eine Entdeckungsreise zu den Maschinen, die uns ersetzen;Constanze Kurz & Frank Rieger;Sachbuch;0+;gute Überblick, öffnet teilweise die Augen. Im Epilog hätte ich mir noch mehr Gedanken und Ausblicke/Ideen zur gesellschaftlichen Dimension gewünscht;
 Operation Blackmail;Jenk Saborowski;0-;Man glaubt es kaum, aber das Buch fängt echt gut an, hatte für mich 2 nette kleine unbewusste Insider-Witze (Olfaktorischer Sinn und Lukumades) und versaut es doch tatsächlich auf den letzten 15%. Bildberberger-Konferenz? Wirklich? Und dann derartige Logik-Fehler? Den Maulwurf und auch den "Mastermind" hätte jede "normale" Ermittlung schnell im Verdacht gehabt, hätte man mal klassisch nach unzufriedenen Ex-Mitarbeitern und deren Verbindungen zur Bank gefahndet. Oh wie schlecht. Und dass das Mastermind seinen Klarnamen beim Killer verwendet hat, nachdem er sich sonst so gut abgesichert hatte ist ja auch soooooooooo wahrscheinlich. Was ein Bullshit.;
-
-Nicht beendet:
-Titel;Autor;Genre;Anmerkung;
-Frostnacht,Arnaldur Indridason;Krimi;Einstieg leider nicht fesselnd genug, obwohl ich nordische Krimis mag; 
+Tod im Koog;Hannes Nygaard;Krimi;0+;schöner  Whodunit mit schleswig-holsteiner Lokalkolorit. Gute Figuren, eine glaubwürdige Geschichte, weil so theoretisch jederzeit auch in der echten Welt möglich;
 
 Gerade am lesen:
 Titel;Autor;Genre;;;
-Tod im Koog;Hannes Nygaard;Krimi;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Waste: Uncovering the Global Food Scandal: The True Cost of What the Global Food Industry Throws Away;Tristram Stuart;Sachbuch;;;
+Ein gutes Omen;Terry Pratchett & Neil Gaiman;;;
+Think Stats. Probability and Statistics for Programmers;Allen B. Downey;;;
 
 Ausstehend:
 Titel;Autor;Genre;;;
 
+Nicht beendet:
+Titel;Autor;Genre;Anmerkung;
+Frostnacht,Arnaldur Indridason;Krimi;Einstieg leider nicht fesselnd genug, obwohl ich nordische Krimis mag; 
