@@ -33,7 +33,7 @@ Gerade am lesen:
 Titel;Autor;Genre;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Waste: Uncovering the Global Food Scandal: The True Cost of What the Global Food Industry Throws Away;Tristram Stuart;Sachbuch;;;
-Ein gutes Omen;Terry Pratchett & Neil Gaiman;;;
+The logic of life;Tim Harford;;;
 Think Stats. Probability and Statistics for Programmers;Allen B. Downey;;;
 
 Ausstehend:
