@@ -28,12 +28,15 @@ Programming Collective Intelligence;Toby Segaran;Sachbuch;+;Gute Einführung in 
 Arbeitsfrei - Eine Entdeckungsreise zu den Maschinen, die uns ersetzen;Constanze Kurz & Frank Rieger;Sachbuch;0+;gute Überblick, öffnet teilweise die Augen. Im Epilog hätte ich mir noch mehr Gedanken und Ausblicke/Ideen zur gesellschaftlichen Dimension gewünscht;
 Operation Blackmail;Jenk Saborowski;0-;Man glaubt es kaum, aber das Buch fängt echt gut an, hatte für mich 2 nette kleine unbewusste Insider-Witze (Olfaktorischer Sinn und Lukumades) und versaut es doch tatsächlich auf den letzten 15%. Bildberberger-Konferenz? Wirklich? Und dann derartige Logik-Fehler? Den Maulwurf und auch den "Mastermind" hätte jede "normale" Ermittlung schnell im Verdacht gehabt, hätte man mal klassisch nach unzufriedenen Ex-Mitarbeitern und deren Verbindungen zur Bank gefahndet. Oh wie schlecht. Und dass das Mastermind seinen Klarnamen beim Killer verwendet hat, nachdem er sich sonst so gut abgesichert hatte ist ja auch soooooooooo wahrscheinlich. Was ein Bullshit.;
 Tod im Koog;Hannes Nygaard;Krimi;0+;schöner  Whodunit mit schleswig-holsteiner Lokalkolorit. Gute Figuren, eine glaubwürdige Geschichte, weil so theoretisch jederzeit auch in der echten Welt möglich;
+The logic of life;Tim Harford;0+;schöne PopScience (wenn Economic == Science). Vieles erscheint mir aber hinterfragenswert;
 
 Gerade am lesen:
 Titel;Autor;Genre;;;
 Thinking fast and slow;Daniel Kahnemann;Sachbuch;;;
 Waste: Uncovering the Global Food Scandal: The True Cost of What the Global Food Industry Throws Away;Tristram Stuart;Sachbuch;;;
-The logic of life;Tim Harford;;;
+Mein Höhenflug, mein Absturz, meine Landung im Leben, Sven Hannawald mit Ulrich Pramann;;;
+
+
 Think Stats. Probability and Statistics for Programmers;Allen B. Downey;;;
 
 Ausstehend:
