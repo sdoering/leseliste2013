@@ -1,9 +1,9 @@
 Titel;Autor;Genre;Bewertung;Anmerkung;
 Deamon;Daniel Suarez;Thriller;+;zweites Mal gelesen;
-Poeler Pokale;Krimi;André Bawar;--;;
-Die Tote am Deich;Heike Denzau;Krimi;+;;
-Nebelfront;Hannes Nygaard;Krimi;++;;
-Schwelbrand;Hannes Nygaard;Krimi;++;;
+Poeler Pokale;André Bawar;Krimi;--;einfach grottig und schlecht. Ich hab mich selten so sehr bei einem Krimi geärgert, dass ich meine Lebenszeit verschwendet habe;
+Die Tote am Deich;Heike Denzau;Krimi;+;Sehr schöner, gut zu lesender Krimi. Eine Autorin (und Hauptfiguren), die ich noch öfter lesen möchte;
+Nebelfront;Hannes Nygaard;Krimi;++;Sehr schöner, gut gelungener Nygaard;
+Schwelbrand;Hannes Nygaard;Krimi;++;Spannend, gut und einfach empfehlenswert;
 Hätschelkind;Wimmer Wilkenloh;Krimi;+;interessanter Hauptermittler;
 Die falsche Fährte;Henning Mankel;Krimi;+;gerne auch weitere Mankels in Zukunft;
 The Rembrandt Affair;Daniel Silva;Thriller;+;interessante, semi-fiktionale EInblicke in den niederländischen Part des Holocaust;
